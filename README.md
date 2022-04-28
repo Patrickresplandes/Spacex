@@ -6,6 +6,5 @@
  ## &nbsp;Do que se trata
   Trata de um site desenvolvido em mostrar sobre naves e compra de naves.
  
- ## &nbsp;Projeto
-  link:https://enchanting-beignet-382023.netlify.app/
+
 
